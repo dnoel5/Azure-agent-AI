@@ -1,0 +1,675 @@
+University of Houston
+Center for Academic Support and Assessment (CASA)
+
+CASA KNOWLEDGE FILE
+Testing Centers, Tutoring Center, Testing Services, FAQ, Locations, Hours, and Parking
+
+==================================================
+1. OVERVIEW
+==================================================
+
+The Center for Academic Support and Assessment (CASA) provides:
+- CASA Testing Centers
+- CASA Tutoring Center
+- Educational Testing Services (ETS)
+- CASA Campus Services (CCS)
+
+CASA supports exam scheduling, testing, tutoring, certain proctoring-related workflows, and related student support services.
+
+Main CASA website:
+http://www.casa.uh.edu
+
+CCS exam scheduling:
+https://ccs.casa.uh.edu/canvas2.html
+
+==================================================
+2. CASA TESTING CENTERS
+==================================================
+
+A. Susanna Garrison Hall (GAR)
+Building: GAR - Building 532
+Address:
+3875 Holman St.
+Houston, TX 77204-6024
+
+Testing Room:
+G207A
+
+Hours:
+Monday - Friday: 9:00 AM - 6:00 PM
+Saturday: Open only for students with a Saturday exam reservation
+
+Notes:
+- CASA-GAR Testing Center is in room G207A.
+
+
+B. Classroom and Business Building (CBB)
+Building: CBB - Building 499
+Address:
+4242 Martin Luther King Boulevard
+Houston, TX 77204
+
+Testing Room:
+242
+
+Hours:
+Monday - Friday: 9:00 AM - 6:00 PM
+Saturday: Open only for students with a Saturday exam reservation
+
+
+C. Sugar Land Campus
+Building: Albert & Mamie George Building (AMG)
+Address:
+14000 University Blvd.
+Sugar Land, TX 77479
+
+Room:
+AMG 302
+
+Hours:
+Tuesday - Friday: 10:00 AM - 3:00 PM
+
+Directions:
+- Take the elevator or stairs to the 3rd floor.
+- Follow directional signs to room AMG 302.
+
+Additional notes:
+- The Sugar Land CASA Center does not have a phone line.
+- For assistance, email courseware@uh.edu.
+- Students may arrive 20 minutes before their scheduled exam to complete biometrics.
+
+
+D. Katy Campus
+Building: Katy Academic Building (KAB1)
+Address:
+22400 Grand Circle Blvd.
+Katy, TX 77540
+
+Room:
+209
+
+Hours:
+Tuesday - Friday: 10:00 AM - 3:00 PM
+
+Directions:
+- Take the elevators to the 2nd floor.
+- Follow directional signs to room 209.
+
+==================================================
+3. CASA TESTING CENTER RULES
+==================================================
+
+General testing rules:
+- Students must register biometric information before the exam date if required and not previously completed.
+- Biometric registration is a one-time process.
+- Students must bring valid identification for biometric registration and check-in.
+- Acceptable ID may include:
+  - UH Cougar Card
+  - state-issued ID
+  - passport
+  - digital Cougar ID from the UH Go app
+- A photo ID is required to check in.
+- Exams are by reservation only.
+- Students must schedule their exam in advance using their Courseware/CCS account.
+- Check-in starts 20 minutes before the scheduled exam time.
+- Students may check in no later than 15 minutes after the reservation time, based on the CASA front desk wall clock.
+- No food or drinks allowed.
+- Exams begin on the hour.
+- There is no standby testing.
+- Only items essential to testing are allowed at the workstation.
+- Personal belongings must be left at the check-in desk.
+- Prohibited personal items may include:
+  - backpacks
+  - purses
+  - notebooks
+  - calculators unless specifically allowed
+  - pagers
+  - cell phones
+  - recording devices
+  - photography equipment
+- Raise your hand for assistance.
+- Return all testing materials and scratch paper at checkout.
+- CASA is not responsible for lost, misplaced, or damaged personal belongings.
+
+Weapons policy:
+Students in CASA testing and tutoring centers may not possess items that can be used as weapons, including but not limited to:
+- handguns
+- firearms
+- ammunition
+- fireworks
+- pellet guns
+- paintball guns
+- BB guns
+- knives
+- clubs
+- explosive or noxious materials
+
+What to bring:
+- Photo ID
+- Pen or pencil if instructed
+- Other allowed items only if required by the course or testing instructions
+
+What is provided:
+- Scratch paper
+
+Cell phone rule:
+- Cell phones must be completely turned off or placed on silent as directed; they are not permitted for use in the testing area.
+
+==================================================
+4. CASA ACCOUNT FAQ
+==================================================
+
+Who needs to register with CASA?
+Any student who is required to take an exam at the CASA Testing Center must register with CASA.
+
+How do I register with CASA?
+Go to http://www.casa.uh.edu and click:
+"NEW USERS: Click here to register"
+
+Do I need a new CASA account every semester?
+No. The same user ID and password can be used every semester.
+
+Do I need to register photo and fingerprint every semester?
+No. If biometrics were completed before, they do not need to be repeated every semester.
+
+Forgot login ID?
+Go to the CASA website and click:
+"Login ID Reminder"
+
+Forgot password?
+Go to the CASA website and click:
+"Reset Password"
+A new password will be sent to the email used at registration.
+
+Forgot the email address used for registration?
+Email:
+CourseWare@uh.edu
+
+Include:
+- full name
+- PeopleSoft ID
+
+Students may also go to the CASA front desk for help.
+
+==================================================
+5. CASA TESTING HOURS
+==================================================
+
+General CASA Testing Center Hours:
+Spring and Fall:
+Monday - Friday: 9:00 AM - 7:00 PM
+
+Summer:
+Monday - Friday: 9:00 AM - 5:00 PM
+
+Saturday:
+Open only for students with a Saturday exam reservation
+
+Note:
+Some specific location pages list testing center site hours as Monday-Friday 9:00 AM - 6:00 PM for GAR and CBB. If exact location-specific timing matters, check the specific testing center location details.
+
+==================================================
+6. SCHEDULING AND RESERVING EXAMS
+==================================================
+
+How do students schedule an exam?
+Go to:
+https://ccs.casa.uh.edu/canvas2.html
+
+Log in with Cougarnet credentials and make a reservation.
+
+When does scheduling open?
+- Spring and Fall: two weeks before the exam date
+- Summer and mini semesters: one week before the exam date
+
+Can students reschedule exams?
+Yes, depending on seat availability and until the testing window closes.
+
+If a reservation is forgotten:
+Students should schedule as soon as possible before the actual exam date/time. Early scheduling is strongly recommended because seats may fill.
+
+If a scheduled exam does not appear in the account:
+Students are responsible for making sure the reservation was properly saved before leaving the scheduler.
+
+==================================================
+7. MISSED EXAMS
+==================================================
+
+What if a student misses an exam?
+The student must check the online scheduler for another available testing time.
+
+CASA staff do not reschedule missed exams for students.
+
+What if the last available slot is missed?
+The student must contact the instructor.
+Instructor policy determines what happens next.
+
+==================================================
+8. CASA TUTORING CENTER
+==================================================
+
+Purpose:
+The Mathematics Department's Tutoring Center is designed to help students learn math.
+
+Eligibility:
+Only students currently enrolled in a University of Houston undergraduate mathematics course are eligible for tutoring.
+This generally refers to UH Central Math Department undergraduate math courses (for example MATH courses).
+
+Location:
+Classroom and Business Building (CBB)
+Building 499
+Room 234
+
+Address:
+4242 Martin Luther King Boulevard
+Houston, TX 77204
+
+Tutoring Hours:
+Spring and Fall:
+- Monday - Thursday: 9:00 AM - 6:00 PM
+- Friday: 9:00 AM - 2:00 PM
+
+Summer:
+- Monday - Thursday: 10:00 AM - 4:00 PM
+- Friday: 10:00 AM - 1:00 PM
+
+What students can expect:
+- Friendly staff
+- Clear and patient tutoring
+- One-on-one help
+- Time to ask specific questions
+- Computers for quiz-taking or viewing online lectures
+
+Tutoring Center Rules:
+- New students must register photo and fingerprint before first check-in if required.
+- This is a one-time process.
+- Biometric registration can be done at CASA-CBB Testing Center room 242 or CASA-GAR Testing Center.
+- No appointment is required for biometric registration.
+- Tutors are not expected to complete quizzes or assignments for students.
+- Tutors are not expected to teach material the student has not studied at all.
+- Cell phones must be off or on silent.
+- Bring your own books and supplies.
+- No food or drinks allowed.
+
+==================================================
+9. TUTORING FAQ
+==================================================
+
+Homework:
+- Undergraduate math homework may use EMCF (Electronic Multiple Choice Form).
+- Students can access EMCF through their Courseware account.
+
+Can homework be turned in early or late?
+No. Students must submit by the deadline listed in the syllabus.
+
+What does "Your questions are not available" mean?
+It usually means the homework was submitted too early or the submission time expired.
+
+Popper forms:
+- Popper form packets can be purchased at the University Copy Center in the Welcome Center for supported courses such as Math and Chemistry.
+- Students must choose the correct popper form for their section.
+- Students must fill out identifying information completely.
+- Use a #2 pencil as instructed.
+
+Can poppers be turned in at CASA?
+No. They must be turned in with the class.
+
+Can poppers be turned in to a different section?
+No. They must be submitted to the section in which the student is officially enrolled.
+
+Are some popper grades dropped?
+Sometimes instructors may drop some low scores, but students should confirm with the instructor.
+
+Online quizzes:
+- Some math classes require a Course Policy Quiz.
+- Students may need a perfect score to unlock other online work.
+- Students may have multiple attempts depending on the class setup.
+
+Grade posting:
+- Popper grades are usually posted within three working days.
+- During busy testing periods it may take up to a week.
+- Test scores are often posted about one week after the testing period closes.
+
+If a grade is missing:
+- It may be a scan issue.
+- Students should contact the instructor.
+
+Grade disputes:
+- Students should first speak with a CASA tutor if appropriate.
+- If needed, they should contact the instructor.
+- Students do not contact graders directly.
+
+Free response test guidance:
+- Show all work clearly on the official response sheet.
+- Scratch paper is not used for grading.
+- Free response images may be viewable in Courseware.
+- Free response grading often takes 2 to 5 business days after the testing period ends.
+
+==================================================
+10. EDUCATIONAL TESTING SERVICES (ETS)
+==================================================
+
+Location:
+Classroom and Business Building (CBB)
+Building 499
+Room 236
+
+Address:
+4242 Martin Luther King Boulevard
+Houston, TX 77204
+
+Hours:
+Spring, Fall, and Summer:
+Monday - Friday: 8:00 AM - 5:00 PM
+
+Email:
+ets@uh.edu
+
+ETS supports:
+- placement testing
+- credit by examination
+- some departmental examinations
+- related student testing services
+
+==================================================
+11. AP, IB, CLEP, DSST, AND CREDIT BY EXAM
+==================================================
+
+AP:
+UH Institution Code: 6870
+
+AP scores are generally processed by Admissions and posted to the myUH Student Center.
+
+If students do not see AP credit:
+- confirm the official scores were sent to UH
+- check the Transfer Credit tab in myUH
+
+AP spring exam scores are usually available in early July.
+
+If orientation happens before AP credit posts:
+students should inform their academic advisor.
+
+IB:
+UH Institution Code: 01409
+
+Students should review UH policy regarding IB credit and may need to email ETS for an individual review appointment.
+
+CLEP:
+UH Institution Code: 6870
+CLEP may not be administered directly through UH Testing Services; students should verify current availability and use official score reporting.
+
+DSST:
+UH Institution Code: 9799
+
+How to know what scores earn UH credit:
+Check the UH Undergraduate Catalog section on Credit by Examination.
+
+Important note:
+Official test scores must be sent to UH before test credits can be posted.
+
+==================================================
+12. UH TESTING SERVICES REGISTRATION AND POLICIES
+==================================================
+
+First time using UTS-Online:
+Use the UTS-Online Registration system and choose:
+"New UTS-Online User"
+
+Forgot username or password:
+Use:
+"Returning UTS-Online User"
+and follow the password reminder process.
+
+Rescheduling:
+- Students may reschedule at least 48 hours before the test date, depending on the exam.
+- Some exams require a rescheduling fee.
+
+Cancellation and refunds:
+- Some tests are refundable, some are not.
+- Placement test fees are generally non-refundable.
+- Refund requests may need to be submitted within 7 business days with required documentation.
+
+Payment methods:
+Current UH students:
+- billed to myUH account
+
+Non-current students may pay by:
+- cash
+- check
+- credit card
+
+==================================================
+13. TEST DAY PROCEDURES FOR TESTING SERVICES
+==================================================
+
+Students should:
+- present valid photo identification
+- verify any additional ID requirements before the exam
+- leave unauthorized items at home
+- plan for locker use if available
+- dress comfortably
+- avoid talking in testing areas
+- remain seated once the exam begins unless instructed otherwise
+- ask for help by raising a hand
+- return all testing materials at the end
+
+Unauthorized items may include:
+- phones
+- tablets
+- listening devices
+- cameras
+- calculators unless authorized
+- watches with alarms or calculator functions
+- food
+- drinks
+- gum
+- tobacco products
+- weapons
+- notes
+- books
+- dictionaries
+- study materials
+- hats or hoods unless worn for religious reasons
+- backpacks, bags, or purses
+- paper unless authorized
+- rulers unless authorized
+
+Bathroom breaks are generally not allowed unless pre-approved.
+
+Students should allow enough time to finish before closing time.
+
+Accommodations:
+Students needing accommodations should arrange them in advance through the Justin Dart, Jr. Student Accessibility Center and present the accommodations letter before the test begins.
+
+==================================================
+14. DEPARTMENTAL EXAMINATIONS AND TEST OPTIONS
+==================================================
+
+Examples of testing options listed by UH include:
+- Accounting 2302
+- Arabic Placement/Credit
+- ASL
+- Chinese
+- French Placement
+- German Placement
+- Hindi
+- Russian
+- Spanish Placement and Spanish Heritage
+- Vietnamese Placement
+- Government 2306
+- Math 1314, 1324, 1325, 1342, 2312, 2413, 2414
+- Math Placement
+- Physics 1301, 1302, 2325, 2326
+- CLEP
+- DSST
+- TSI / TSIA2
+- Biochemistry
+- Major Field Tests
+- PRAXIS
+- Certiport exams
+- other approved examinations
+
+Approved courses, minimum scores, credits, costs, and procedures are published in the UH Undergraduate Catalog and testing materials.
+
+==================================================
+15. PROCTORING SERVICES AND DISTANCE ASSESSMENT
+==================================================
+
+Proctoring services are for students currently enrolled in online University of Houston courses when permitted by the instructor.
+
+Basic process:
+1. Verify proctoring with the instructor.
+2. Find a suitable proctor.
+3. Submit a proctor request form.
+4. Wait for approval email.
+5. Schedule exams with the proctor.
+6. Complete the exam and follow instructions afterward.
+
+Proctor requirements:
+- no relatives or friends
+- no conflict of interest
+- must continuously monitor the student
+- must have reliable internet and email
+- documentation must be in English
+- exams are sent only to approved business email addresses
+- acceptable locations include universities, community colleges, testing centers, or public libraries
+- residential settings are not allowed
+- third-party proctors like ProctorU or ProctorFree are not allowed if UH policy states they are prohibited for that process
+
+Timing:
+- domestic requests should usually be submitted at least one week before the exam
+- international requests should usually be submitted at least two weeks before the exam
+
+Nursing students:
+- proctoring requests typically must be submitted two weeks before the exam date
+- nursing students must use an approved proctoring location
+
+Canceling proctoring requests:
+Students may cancel by contacting the office.
+Repeated no-shows may lead to cancellation of future requests.
+
+Proctoring contact:
+proctoring@uh.edu
+Phone: (713) 743-5434
+
+==================================================
+16. CCS (CASA CAMPUS SERVICES)
+==================================================
+
+CCS is an auxiliary system built on top of Canvas.
+
+CCS can be used for:
+- scheduling proctored exams in CASA Testing Centers
+- taking proctored exams
+- taking online quizzes
+- completing EMCFs
+- uploading and transferring some course assessment content
+- giving instructors grade reports
+- uploading grades from CCS to Canvas
+
+Examples of additional CCS features:
+- opt-out for finals
+- LGC (current grade viewing tool)
+- EMCFs
+- grade manipulation workflows
+- controlled access to online learning materials
+- proctored exam scheduling
+
+==================================================
+17. PARKING INFORMATION
+==================================================
+
+Main UH Campus:
+Visitors may park in:
+- Welcome Center Garage
+- Hilton Hotel Garage
+
+These are paid parking garages.
+
+Parking rates and details:
+https://www.uh.edu/af-university-services/parking/parking-on-campus/visitors/rates.php
+
+Sugar Land Campus:
+Students, faculty, and staff must have a valid UH parking permit.
+
+More information:
+https://www.uh.edu/parking/parking-on-campus/sugar-land-parking/index.php
+
+Katy Campus:
+Students, faculty, and staff must have a valid UH parking permit.
+
+More information:
+https://www.uh.edu/parking/parking-on-campus/katy-parking/index.php
+
+==================================================
+18. PRIVACY AND DATA
+==================================================
+
+CASA states that it may collect and process some student information, including:
+- name
+- PeopleSoft ID
+- grades
+- email address
+- student pictures taken at registration
+
+CASA states that student biometrics are hashed and stored in a secure database and cannot be extracted from the hash values.
+
+CASA states that it uses data to:
+- provide access to testing and tutoring services
+- send alerts or newsletters
+- gather feedback and improve services
+
+CASA states that it does not sell or share personal information to third parties for digital marketing, advertising, or promotion of products or services.
+
+CASA states that:
+- data is stored on University of Houston-owned servers
+- data is kept as long as necessary for the purpose collected or as legally required
+- persistent cookies are not stored on user machines
+- session cookies are deleted when the user logs out
+
+==================================================
+19. CONTACT INFORMATION
+==================================================
+
+CASA Technical Support:
+CourseWare@uh.edu
+
+Educational Testing Services:
+ets@uh.edu
+
+Proctoring:
+proctoring@uh.edu
+Phone: (713) 743-5434
+
+University of Houston
+Houston, Texas 77204
+Main Phone: (713) 743-2255
+
+==================================================
+20. QUICK ANSWERS
+==================================================
+
+Where do students schedule CASA exams?
+Students schedule through CCS:
+https://ccs.casa.uh.edu/canvas2.html
+
+Where is the CASA Tutoring Center?
+CBB Room 234, 4242 Martin Luther King Boulevard, Houston, TX 77204.
+
+Where is ETS?
+CBB Room 236, 4242 Martin Luther King Boulevard, Houston, TX 77204.
+
+Where is the GAR testing center?
+Susanna Garrison Hall, room G207A, 3875 Holman St., Houston, TX 77204-6024.
+
+Where is the CBB testing center?
+Classroom and Business Building, room 242, 4242 Martin Luther King Boulevard, Houston, TX 77204.
+
+What should students bring to testing?
+Photo ID and only allowed testing materials.
+
+Can students bring phones, bags, or food?
+No, not into the testing area.
+
+What if a student misses an exam?
+The student should check the scheduler for another slot or contact the instructor if no slots remain.
